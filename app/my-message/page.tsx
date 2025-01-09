@@ -37,7 +37,7 @@ export default function MyMessage() {
         </p>
         <p className="text-lg md:text-xl font-playfair text-center text-ivory">
           With all my love,<br />
-          Your devoted partner
+          Your devoted partner Mohsin
         </p>
       </motion.div>
       <motion.div
