@@ -11,7 +11,7 @@ export default function Message() {
           and your kindness inspires me to be a better person.
         </p>
         <p className="mb-4 text-lg">
-          Every moment we spend together is a treasure, and I'm grateful for the love we share. 
+          Every moment we spend together is a treasure, and I&apos;sm grateful for the love we share. 
           You are not just my partner, but my best friend, my confidant, and my soulmate. 
           I promise to stand by your side through all of life's adventures, supporting your dreams 
           and cherishing our love.
