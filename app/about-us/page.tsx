@@ -12,7 +12,7 @@ export default function AboutUs() {
             The moment our eyes met, we knew there was something special between us.
           </p>
           <p className="mb-4">
-            Since that fateful day, we've shared countless adventures, laughter, and precious moments. 
+            Since that fateful day, we&apos;sve shared countless adventures, laughter, and precious moments. 
             From our first date at the botanical gardens to our romantic getaway in Paris, 
             every moment with you, Aradhya, has been magical.
           </p>
