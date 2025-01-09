@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import { Timeline } from './Timeline'
+/*import { Timeline } from './Timeline'*/
 
 export default function AboutUs() {
   return (
@@ -30,7 +30,7 @@ export default function AboutUs() {
           />
         </div>
       </div>
-      <Timeline />
+      
     </div>
   )
 }
